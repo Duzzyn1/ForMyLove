@@ -41,3 +41,14 @@ body {
 .botao-desativado {
     display: none;
 }
+
+.container-rodape {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.paragrafo-rodape {
+    color: #ffffff;
+}
